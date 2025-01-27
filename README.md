@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. 프로젝트
+
+### Project
+1. UN Comtrade 무역 데이터 수집 및 전처리
