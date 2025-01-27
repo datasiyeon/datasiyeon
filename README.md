@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Certification
-- ADsP (22.03.25)
 
 ## Project
 ### UN Comtrade 무역 데이터 수집 및 전처리(25.01.07 ~
